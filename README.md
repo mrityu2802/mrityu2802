@@ -1,16 +1,69 @@
-### Hi there 👋
 
-<!--
-**mrityu2802/mrityu2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/b_eyon_d)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mishra-ayush08/)
+[![CodeForces Badge](https://cp-logo.vercel.app/codeforces/Beyond_AY)](http://codeforces.com/profile/Beyond_AY)
+[![CodeChef Badge](https://cp-logo.vercel.app/codechef/beyond_ay)](https://www.codechef.com/users/beyond_ay)
 
-Here are some ideas to get you started:
+Hey there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mrityunjay, A Programmer Having Knoweledge Of Various Tech Stack Such As :- Machine Learning, Web development. I'm Zeal About Exploring New thing And Looking For Oppurtunities To Expand My Learning and Skills.
+
+## 📌 Have A Look At My Pinned Repositories
+<br>
+
+<a href="https://github.com/mrityu2802/Url_short">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrityu2802&repo=Url_short&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/mrityu2802/Ml_pro_ecoli_class">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrityu2802&repo=Ml_pro_ecoli_class&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/mrityu2802/AIfacerecognition">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrityu2802&repo=AIfacerecognition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+
+<br>
+
+## &#x1f4c8; Lets See Some Stats
+
+<br>
+
+<a href="https://github.com/mrityu2802">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrityu2802&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/mrityu2802">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mrityu2802&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+## 💼 How Can Anyone Forgot About Skills...
+
+![](https://img.shields.io/badge/Code-MachineLearning-informational?style=flat&logo=MachineLearning&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript(Basic)-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-DSA-informational?style=flat&logo=dsa&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+<summary>Will Be Adding More Skills</summary>
+<br>
+
+## 📣 How about an Quote??
+
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
+>
+> <p>- Andy Bernard</p>
+
