@@ -1,8 +1,6 @@
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/b_eyon_d)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mishra-ayush08/)
-[![CodeForces Badge](https://cp-logo.vercel.app/codeforces/Beyond_AY)](http://codeforces.com/profile/Beyond_AY)
-[![CodeChef Badge](https://cp-logo.vercel.app/codechef/beyond_ay)](https://www.codechef.com/users/beyond_ay)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mrityu2802)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mrityunjay2802/)
 
 Hey there 👋
 
