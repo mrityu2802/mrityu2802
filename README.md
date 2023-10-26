@@ -48,7 +48,8 @@ I'm Mrityunjay, A Programmer Having Knoweledge Of Various Tech Stack Such As :- 
 ## 💼 How Can Anyone Forgot About Skills...
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=ReactJs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=React&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MachineLearning-informational?style=flat&logo=MachineLearning&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
