@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm Mrityunjay, A Programmer Having Knoweledge Of Various Tech Stack Such As :- Machine Learning, Web development. I'm Zeal About Exploring New thing And Looking For Oppurtunities To Expand My Learning and Skills.
+I'm Mrityunjay, A Programmer Having Knowledge Of Various Tech Stack Such As:- Web development and machine Learning. I'm Zeal About Exploring New things And Looking For Opportunities To Expand My Learning and Skills.
 
 ## 📌 Have A Look At My Pinned Repositories
 <br>
@@ -16,7 +16,7 @@ I'm Mrityunjay, A Programmer Having Knoweledge Of Various Tech Stack Such As :- 
 <br>
 
 <a href="https://github.com/mrityu2802/ai-saas">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrityu2802&repo=Ml_pro_ecoli_class&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrityu2802&repo=ai-saas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
