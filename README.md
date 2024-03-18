@@ -50,7 +50,7 @@ I'm Mrityunjay, A Programmer Having Knowledge Of Various Tech Stack Such As:- We
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=React&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Next.Js-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Next.Js-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
