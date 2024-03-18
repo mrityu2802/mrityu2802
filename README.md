@@ -54,13 +54,13 @@ I'm Mrityunjay, A Programmer Having Knowledge Of Various Tech Stack Such As:- We
 ![](https://img.shields.io/badge/Code-Tailwind-CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-DSA-informational?style=flat&logo=dsa&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-DSA-informational?style=flat&logo=dsa&logoColor=white&color=4AB197)
 <summary>Will Be Adding More Skills</summary>
 <br>
 
